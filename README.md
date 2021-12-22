@@ -1,4 +1,4 @@
-#### 4 Person project for a computer course I took at school
+## 4 Person project for a System Software Engineering course I took at school.
 
 ### ~90% of the backend simulation code was written by me.  (Found in sim_classes folder)
 ### Front end and test cases were not done by me.
