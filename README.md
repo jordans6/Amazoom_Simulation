@@ -1,6 +1,7 @@
 #### 4 Person project for a computer course I took at school
 
 ### ~90% of the backend simulation code was written by me.  (Found in sim_classes folder)
+### Front end and test cases were not done by me.
 
 ### Simulation allows for variable number of warehouses, size and robots to be used.  Allows admin user to restock shelves and customer to place orders and view status.  
 ### Orders are placed to a pseudo server which then distributes tasks to each CPU in each warehouse which then co-ordinate robots to complete the tasks.  
